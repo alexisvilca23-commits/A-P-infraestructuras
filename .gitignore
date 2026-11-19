@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+*.zip
+*.bak
+*.tmp
+*.orig
+.env
+.env.*
+
+# Evidencia local de revisiones; no forma parte del sitio.
+/.chrome-check/
+/artifacts/solana-review/
+
+# Local caches and tool artifacts.
+/.pytest_cache/
+/.playwright/
+/CachedData/
+/Cache/
